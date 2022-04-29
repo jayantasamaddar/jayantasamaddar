@@ -1,21 +1,23 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayanta</h1>
+<h3 align="center">I'm an accidental but passionate Full Stack Developer from India. There is also a creative side to me, I've also served as a Creative Director at a fashion brand (yes, I design clothes too), but that's not why you are here, right? Let's stay on tech! :)</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on an omni channel order processing and fulfillment app.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jayantasamaddar.com)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 💼 I'm looking for a job as a **frontend engineer** or as a **fullstack developer**.
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- 📫 How to reach me **jayanta@zenius.one**
+
+- ⚡ Fun facts about me **I am the founder of Kollab a streetwear brand of which I have been the Creative Director. Yes, I also design clothes. Apart from that, I've also been a performing artist featured by RedBull as one of the pioneers of the Indian breakdancing. Watch the documentary [HERE](https://www.youtube.com/watch?v=j3wnQbsXQTQ)**
 
 ## 🚀 Languages and Tools:
 
@@ -43,23 +45,23 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/jayantasamaddar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayanta Samaddar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantasamaddar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/jayantasamaddar/github-readme-stats"><img alt="Jayanta Samaddar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayantasamaddar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jayantasamaddar/github-readme-stats"><img alt="Jayanta Samaddar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantasamaddar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/jayantasamaddar/github-readme-activity-graph"><img alt="Jayanta Samaddar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayantasamaddar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -78,6 +80,6 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=jayantasamaddar">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/jayantasamaddar?tab=followers"><img src="https://img.shields.io/github/followers/jayantasamaddar?label=Followers&style=social" alt="GitHub Badge"></a>
