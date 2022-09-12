@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jayantasamaddar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-jayantasamaddar.vercel.app/)**
 
 - 💼 I'm looking for a job as a **frontend engineer** or as a **Full Stack Developer**.
 
