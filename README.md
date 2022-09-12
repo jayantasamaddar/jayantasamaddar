@@ -19,7 +19,7 @@
 
 - ⚡ Fun facts about me **I am the founder of Kollab a streetwear brand of which I have been the Creative Director. Yes, I also design clothes. Apart from that, I've also been a performing artist featured by RedBull as one of the pioneers of the Indian breakdancing. Watch the documentary - [HERE](https://www.youtube.com/watch?v=j3wnQbsXQTQ)**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages, Frameworks, Platforms and Tools:
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /> </a> 
@@ -34,11 +34,16 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a style="padding-right:8px;" href="https://www.postgresql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgresql.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.redis.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" /> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://www.elasticsearch.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="elasticsearch" /> </a>
     <a href="https://graphql.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" /> </a>
     <a href="https://www.webpack.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" /> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" /> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" /> </a>
+    <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" /> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
