@@ -37,6 +37,7 @@
     <a href="https://www.redis.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" /> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://www.elasticsearch.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="elasticsearch" /> </a>
+    <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/48/rabbitmq_logo_icon_170810.png" alt="RabbitMQ" /> </a>
     <a href="https://restfulapi.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="REST API" /> </a>
     <a href="https://graphql.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" /> </a>
     <a href="https://www.webpack.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" /> </a> 
