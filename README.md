@@ -24,10 +24,11 @@
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /> </a>
-    <a href="https://www.tailwindcss.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="48" height="48" alt="TailwindCSS" /> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>  
+    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" /> </a> 
+    <a href="https://www.tailwindcss.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="48" height="48" alt="TailwindCSS" /> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.nextjs.org" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/next-js.png" width="48" height="48" /> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
@@ -41,8 +42,9 @@
     <a href="https://restfulapi.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="REST API" /> </a>
     <a href="https://graphql.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" /> </a>
     <a href="https://www.webpack.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" /> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://www.rollupjs.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_rollup_icon_130190.png" alt="Rollup" /> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_jest_snapshot_icon_130513.png" alt="Jest" /> </a>  
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" /> </a>
     <a href="https://www.kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" /> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" /> </a>
