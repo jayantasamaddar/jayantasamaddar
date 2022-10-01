@@ -26,10 +26,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" /> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" /> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" /> </a> 
     <a href="https://www.tailwindcss.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="48" height="48" alt="TailwindCSS" /> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" /> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" /> </a> 
     <a href="https://www.nextjs.org" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/next-js.png" width="48" height="48" /> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
