@@ -5,15 +5,19 @@
 
 ## 🙋‍♂️ About Me
 
+- I'm a Certified AWS Developer Associate and Solutions Architect Associate.
+
 - 🔭 I’m currently working on an omni channel order processing and fulfillment app.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently doing the **Meta Front-End Developer Certification**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-jayantasamaddar.vercel.app/)**
+- 👨‍💻 Almost all of my public projects are available at **[My Portfolio](https://portfolio-jayantasamaddar.vercel.app/)** and the rest are available on GitHub.
 
-- 💼 I'm looking for a job as a **frontend engineer** or as a **Full Stack Developer**.
+- 💼 I'm looking for a challenge as a **Frontend Engineer** or as a **Full Stack Developer**.
+
+- My underrated skill is my ability to learn fast. I am multi-disciplinary and have been a startup Founder, a performing artist and Creative Director of a fashion brand.
 
 - 📫 How to reach me **jayanta@zenius.one**
 
